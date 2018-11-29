@@ -1,0 +1,10 @@
+git add
+git commit
+git push
+git difftool
+<<<<<<< HEAD
+git checkout
+UNDO - Remove
+=======
+git checkout
+>>>>>>> parent of 6a3c113... new change
